@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="welcome_message">Welcome to my app</string>
+    <string name="add_symbol">+</string>
+</resources>
